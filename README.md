@@ -1,1 +1,1 @@
-# Human_Resource_Management_System
+This project is a basic dashboard showcasing class schedules and classroom information in a simple, organized way.
